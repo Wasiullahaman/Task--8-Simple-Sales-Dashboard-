@@ -1,0 +1,41 @@
+# Simple Sales Dashboard - Power BI
+
+## 📊 Overview
+This dashboard visualizes sales performance data by product category, region, and monthly trends. It was created as part of **Task 8 - Data Analyst Internship** assignment.
+
+## 🎯 Objective
+To design a clean and interactive sales dashboard using Power BI with:
+- Time series trends
+- Category-wise breakdown
+- Regional performance analysis
+
+## 📁 Dataset
+Superstore-style dataset with the following key columns:
+- Order Date
+- Sales
+- Profit
+- Category
+- Region
+
+## 📌 Visuals Included
+- 📈 **Line Chart:** Sales over Month-Year
+- 📊 **Bar Chart:** Sales by Region
+- 🍩 **Donut Chart:** Sales by Category
+- 🎚️ **Slicer:** Filter by Region
+
+## ✨ Key Insights
+1. **West region** had the highest total sales throughout the year.
+2. **Technology** category generated the most revenue.
+3. Sales peaked during **November and December**, indicating strong year-end performance.
+4. The **South region** had the lowest profit margin.
+
+## 🧰 Tools Used
+- Power BI
+- Superstore dataset (CSV)
+
+
+
+### ✅ Submission
+- This file is part of a Data Analyst Internship Task.
+- GitHub repo includes: `.pbix`, screenshot, README, and insights.
+
